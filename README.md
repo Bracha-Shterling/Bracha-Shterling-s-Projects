@@ -1,4 +1,5 @@
 Welcome.
-The attached zip folder includes the mobile and web projects which I completed for HackerU.
-Feel free to reach out with any further questions.
-Bracha
+<p>The attached zip folder includes the mobile and web projects that I completed for HackerU.
+<p>The other file is my current resume.
+<p>Feel free to reach out with any further questions.
+<p>Bracha
